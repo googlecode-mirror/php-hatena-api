@@ -1,5 +1,6 @@
 #summary Wikiページ一覧です。
 #labels Featured
 
-  * [Docs]
-  * [MethodList]
+  * [Docs ドキュメント]
+  * [MethodList メソッド一覧]
+  * [http://moctezuma.googlecode.com/svn/trunk/KEINOS/class.cHatenaApi.inc ダウンロード]
