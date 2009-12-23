@@ -1,3 +1,4 @@
+#summary cHatenaAPIクラスで使えるメソッド一覧です。
 #labels Featured
 =メソッド一覧=
 (str=文字列,int=整数,obj=オブジェクト,arr=配列,mix)
