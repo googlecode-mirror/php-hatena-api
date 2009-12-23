@@ -3,4 +3,4 @@
 
   * [Docs ドキュメント]
   * [MethodList メソッド一覧]
-  * [http://moctezuma.googlecode.com/svn/trunk/KEINOS/class.cHatenaApi.inc ダウンロード(UF-8)]
+  * [http://moctezuma.googlecode.com/svn/trunk/KEINOS/class.cHatenaApi.inc ソース&ダウンロード(UTF-8)]
